@@ -110,7 +110,7 @@ $ git branch -v
 #### testing 브랜치에 commit
 
 <pre><code>$ git add test.js
-git commit -a -m add test.js</code></pre>
+$ git commit -a -m add test.js</code></pre>
 
 #### master 브랜치로 복귀
 
